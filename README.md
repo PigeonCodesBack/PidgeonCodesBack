@@ -41,9 +41,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ## 🏆 Achievements
 
+<!--
 - 🎉 Completed 100+ projects
 - 🏅 Top contributor in various open-source projects
-
+-->
+  
 ## 🌟 Featured Repositories
 
 <!--
